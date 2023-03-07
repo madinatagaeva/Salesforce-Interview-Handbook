@@ -23,6 +23,7 @@ Checklist of 10 concepts every Salesforce admin must know
 1. Can you delete a user?
 1. What is the difference between page layout & compact layout?
 [[↑] Back to top](#developers-knowledge-checklist)
+admin salesforce
 
 ### General Navigation
 1. Tab
